@@ -1551,10 +1551,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
-"@cubejs-client/core@^0.19.19":
-  version "0.19.19"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.19.19.tgz#8c0cf2dc67d731d91d7d792f0e3c09cc5f4a041d"
-  integrity sha512-w+oaNCBcGn91piuMXSYQRezEqtoeoXou4vevY/4rE+qzw+K4BwV+okgppZEGzRF6dP71dnMdbtzUHOWpYQspww==
+"@cubejs-client/core@^0.19.23":
+  version "0.19.23"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.19.23.tgz#54fd506cdccfee01692b4a9319273c4bfba8eb2c"
+  integrity sha512-tQ/kdjGlUAMZ6Ou7PB2MZrbQEGhomSeNepACe8cRxVyAf3NS0h/qdMttDptnR3Vrz92EwOhVS0BOraEkp4/dkw==
   dependencies:
     "@babel/runtime" "^7.1.2"
     core-js "^3.6.5"
@@ -1565,10 +1565,10 @@
     url-search-params-polyfill "^7.0.0"
     uuid "^3.4.0"
 
-"@cubejs-client/react@^0.19.19":
-  version "0.19.19"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.19.19.tgz#160e5e83123fe07fd3aa2a9e5ec7a82e522aec9f"
-  integrity sha512-B1I5iXBMcjmHa30LLae6WygMDL5pgYEfFpQQcohCEmKB3lXCnghwR2xuk5UPrr9mNzXp3JtcWiOnITc7l9hKpg==
+"@cubejs-client/react@^0.19.23":
+  version "0.19.23"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.19.23.tgz#115c104da487b8ea13bfeaf72451b70f3e872986"
+  integrity sha512-e0Jr+cwBf7xfpCFEW4So78ecag/pTeagXV4md6pUW/gcjGExtmP+2GJ5cjOS2jlbKOTE+uC2P1TzMzWQ2T5I5g==
   dependencies:
     "@babel/runtime" "^7.1.2"
     core-js "^3.6.5"
@@ -13128,9 +13128,9 @@ websocket-driver@>=0.5.1:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.3.tgz#5d2ff22977003ec687a4b87073dfbbac146ccf29"
-  integrity sha512-nqHUnMXmBzT0w570r2JpJxfiSD1IzoI+HGVdd3aZ0yNi3ngvQ4jv1dtHt5VGxfI2yj5yqImPhOK4vmIh2xMbGg==
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
+  integrity sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==
 
 whatwg-encoding@^1.0.1, whatwg-encoding@^1.0.3, whatwg-encoding@^1.0.5:
   version "1.0.5"
